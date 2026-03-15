@@ -4,13 +4,15 @@
 
 > [!IMPORTANT]  
 > **This list is designed EXCLUSIVELY for [uBlock Origin](https://ublockorigin.com/).** > It uses advanced `!#include` directives and syntax that are not supported by Adblock Plus (ABP) or AdGuard.
+> You **MUST DISABLE ADBLOCK/ADBLOCK PLUS/ADGUARD BEFORE INSTALLING** this filter
 
 ---
 
 ### 🚀 How to Install
 1. **Install uBlock Origin** for your browser.
 2. Click the link below to subscribe:
-   [**👉 Subscribe to BlackCatOfficial's VN List**](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/BlackCatOfficialytb/for-ublock-with-love/main/filter.txt&title=BlackCatOfficial%27s%20VN%20Trash%20Ads)
+
+   [![Subscribe to uBlock Origin](https://img.shields.io/badge/Subscribe-uBlock%20Origin-green?style=for-the-badge&logo=ublockorigin)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/BlackCatOfficialytb/for-ublock-with-love/main/filter.txt&title=BlackCatOfficial%27s%20VN%20Trash%20Ads)
 
 ---
 
