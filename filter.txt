@@ -7,5 +7,4 @@
 ! Homepage: https://github.com//BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
 ! --- Include sub-filters ---
-!#include filter1-clickadu.txt
-!#include filter2.txt
+!#include https://raw.githubusercontent.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter/refs/heads/main/filter1-clickadu.txt
