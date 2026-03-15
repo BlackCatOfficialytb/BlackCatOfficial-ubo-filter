@@ -14,6 +14,12 @@
 
    [![Subscribe to uBlock Origin](https://img.shields.io/badge/Subscribe-uBlock%20Origin-green?style=for-the-badge&logo=ublockorigin)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/BlackCatOfficialytb/for-ublock-with-love/main/filter.txt&title=BlackCatOfficial%27s%20VN%20Trash%20Ads)
 
+Or import this link:
+
+```
+https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter/raw/refs/heads/main/filter.txt
+```
+
 ---
 
 ### 🛠️ Modular System
