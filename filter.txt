@@ -20,3 +20,4 @@
 
 !#include https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 !#include filter1-clickadu.txt
+!#include filter2-ez4short.txt
