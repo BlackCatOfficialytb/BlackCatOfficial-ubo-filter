@@ -8,4 +8,4 @@
 
 ! Put your filters below this line
 ||broadlyjukeboxunrevised.com^
-! ||trash-ads.vn^
+||qeloviro.com^
