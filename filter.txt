@@ -9,8 +9,8 @@
 ! --- This is a loader, not the main filter
 
 ! --- Load ABPVN (best filter in VN, and revent useless filters ---
-#include https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
+1#include https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 
 ! --- Load main filters ---
-#include filter1-clickadu.txt
-#include filter2_ez4short.txt
+!#include filter1-clickadu.txt
+!#include filter2_ez4short.txt
