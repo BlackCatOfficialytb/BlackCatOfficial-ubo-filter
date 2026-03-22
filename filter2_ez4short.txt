@@ -8,3 +8,5 @@
 
 ||*.enstatehelibus.com^$all
 ||sliwercohue.top^$all
+||subcoatowls.cyou^$all
+||*.turbofilevault3.lat^$all
