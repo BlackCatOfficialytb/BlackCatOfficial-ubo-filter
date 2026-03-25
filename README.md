@@ -27,7 +27,7 @@ https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter/raw/refs/head
 To keep the code clean, we use a multi-file system:
 * `filter.txt` (Main Loader)
 * `filter1-clickadu.txt` (Clickadu Network)
-* `filter2.txt` (General VN Trash)
+* `filter2_ez4short.txt` (Ez4short Trash)
 
 ### 🚩 Report a Problem
 If a Vietnamese site is still showing ads or looks "broken," please [open an issue](https://github.com/BlackCatOfficialytb/for-ublock-with-love/issues).
