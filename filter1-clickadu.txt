@@ -10,3 +10,4 @@
 ||broadlyjukeboxunrevised.com^$all
 ||qeloviro.com^$all
 ||reportallege.com^$all
+||dexpredict.com^$all
