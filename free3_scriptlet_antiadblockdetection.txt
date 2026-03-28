@@ -1,0 +1,3 @@
+free.freezehost.pro##+js(set-constant, adblockerDetected, false)
+free.freezehost.pro##+js(get-constant, offsetHeight, 1)
+free.freezehost.pro##+js(get-constant, offsetWidth, 1)
