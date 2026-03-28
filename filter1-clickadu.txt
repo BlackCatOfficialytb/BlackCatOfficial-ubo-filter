@@ -11,3 +11,4 @@
 ||qeloviro.com^$all
 ||reportallege.com^$all
 ||dexpredict.com^$all
+||chivalrousmuseumsank.com^$all
