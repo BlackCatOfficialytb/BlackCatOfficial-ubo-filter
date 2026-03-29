@@ -7,7 +7,7 @@
 ! Homepage: https://github.com//BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
 ! --- This is a loader, not the main filter
-
+!    #include https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 ! --- Load main filters ---
 !#include filter1-clickadu.txt
 !#include filter2_ez4short.txt
