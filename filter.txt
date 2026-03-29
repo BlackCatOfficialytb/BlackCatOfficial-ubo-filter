@@ -1,9 +1,9 @@
 [uBlock Origin]
 ! Title: BlackCatOfficial's Blocking Trash Ads (Made in VN)
 ! Description: Blocks Vietnamese ads missed by standard lists.
-! Version: 1.0.0
+! Version: 36.67.69
 ! Last modified: 2026-03-15
-! Expires: 67 days
+! Expires: 67 days (for fun only, but update frequently)
 ! Homepage: https://github.com//BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
 ! --- This is a loader, not the main filter
