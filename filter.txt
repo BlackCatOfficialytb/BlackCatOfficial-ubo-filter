@@ -13,4 +13,4 @@
 ! --- Load main filters ---
 !#include filter1-clickadu.txt
 !#include filter2_ez4short.txt
-!#include free3_scriptlet_antiadblockdetection.txt
+!#include filter3_scriptlet_antiadblockdetection.txt
