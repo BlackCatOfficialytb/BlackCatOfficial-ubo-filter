@@ -2,15 +2,12 @@
 ! Title: BlackCatOfficial's Blocking Trash Ads (Made in VN)
 ! Description: Blocks Vietnamese ads missed by standard lists.
 ! Version: 1.2.3.4.5.6.7
-! Last modified: 2026-04-04
+! Last modified: 2026-04-10
 ! Expires: 1 days (update frequently)
 ! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
-! --- This is a loader, not the main filter
-! NOTE: This filter not meant to be using alone, it MUST use with ABPVN
-! disabled abpvn
-!    #include https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
-! --- Load main filters ---
+!-- #include https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 !#include filter1-clickadu.txt
 !#include filter2_ez4short.txt
 !#include filter3_scriptlet_antiadblockdetection.txt
+!#include filter4_malware.txt
