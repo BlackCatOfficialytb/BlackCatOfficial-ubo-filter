@@ -1,6 +1,6 @@
 [uBlock Origin]
-! Title: BlackCatOfficial's Blocking Trash Ads (Made in VN)
-! Description: Blocks Vietnamese ads missed by standard lists.
+! Title: BlackCatOfficial's Blocking Trash Ads (ez4shorts)
+! Description: Blocks ez4shorts ads missed by standard lists.
 ! Version: 1.0.0
 ! Last modified: 2026-03-15
 ! Expires: 1 days
