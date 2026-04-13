@@ -1,6 +1,6 @@
 [uBlock Origin]
-! Title: BlackCatOfficial's Blocking Trash Ads (Buff d3ward )
-! Description: This filter makes d3ward scores 100% for uBO
+! Title: BlackCatOfficial's Blocking Trash Ads (d3ward's fix)
+! Description: This filter makes d3ward scores 100% for uBO, fixing ads on mobile (if they can install this filter to it as root)
 ! Version: 1.7.3
 ! Last modified: 2026-04-13
 ! Expires: 7 days (nearly update frequently)
