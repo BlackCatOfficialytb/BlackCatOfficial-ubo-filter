@@ -2,9 +2,13 @@
 ! Title: BlackCatOfficial's Blocking Trash Ads (Made in VN)
 ! Description: Blocks Vietnamese ads missed by standard lists.
 ! Version: 1.0.0
-! Last modified: 2026-03-15
+! Last modified: 2026-04-13
 ! Expires: 1 days
 ! Homepage: https://github.com//BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 free.freezehost.pro##+js(set-constant, adblockerDetected, false)
 free.freezehost.pro##+js(get-constant, offsetHeight, 1)
 free.freezehost.pro##+js(get-constant, offsetWidth, 1)
+pro.tapvietcode.com##+js(set-constant, canRunAds, true)
+pro.tapvietcode.com##+js(set-constant, adsbygoogle.loaded, true)
+pro.tapvietcode.com##+js(set-constant, detectionResults.baitTest, false)
+||pro.tapvietcode.com/wp-content/plugins/link4sub-bypass/assets/js/adblock-detector.js^$script
