@@ -1,5 +1,5 @@
 [uBlock Origin]
-! Title: BlackCatOfficial's Blocking Trash Ads (Made in VN)
+! Title: BlackCatOfficial's Blocking Trash Ads (Made in VN for global websites)
 ! Description: Blocks all ads missed by standard lists.
 ! Version: 1.7.3
 ! Last modified: 2026-04-13
