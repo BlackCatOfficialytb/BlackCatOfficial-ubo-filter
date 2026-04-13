@@ -1,0 +1,40 @@
+[uBlock Origin]
+! Title: BlackCatOfficial's Blocking Trash Ads (Buff d3ward )
+! Description: This filter makes d3ward scores 100% for uBO
+! Version: 1.7.3
+! Last modified: 2026-04-13
+! Expires: 7 days (nearly update frequently)
+! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filt
+
+! Fix by d3ward
+@@*$redirect-rule
+! Block Yahoo/Verizon/Oath Ad-Tech
+||yahooinc.com^$xhr,3p
+||yahoodns.net^$xhr,3p
+||oath.cloud^$xhr,3p
+||gemini.yahoo.com^$xhr,3p
+
+! Block OEM Telemetry (Apple, Xiaomi, Realme, Samsung)
+||aaplimg.com^$xhr,3p
+||apple.com/fakepage.html$xhr,3p
+||xiaomi.com^$xhr,3p
+||miui.com^$xhr,3p
+||realme.com^$xhr,3p
+||realmemobile.com^$xhr,3p
+||hicloud.com^$xhr,3p
+
+! Block Social Media Ad-API (TikTok, Twitter, Yandex)
+||tiktok.com^$xhr,3p
+||byteoversea.com^$xhr,3p
+||twitter.com/fakepage.html$xhr,3p
+||yandex.ru^$xhr,3p
+||yandex.net^$xhr,3p
+
+! Block Amazon Ad-S3 Buckets
+||analytics.s3.amazonaws.com^$xhr,3p
+||analyticsengine.s3.amazonaws.com^$xhr,3p
+
+! Force block d3ward's specific test scripts
+||d3ward.com/js/pagead.js$script
+||d3ward.com/js/widget/ads.js$script
+
