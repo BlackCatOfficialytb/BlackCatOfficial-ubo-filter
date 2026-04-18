@@ -11,3 +11,4 @@
 ||reportallege.com^$all
 ||dexpredict.com^$all
 ||chivalrousmuseumsank.com^$all
+||bonuscaf.com^$all
