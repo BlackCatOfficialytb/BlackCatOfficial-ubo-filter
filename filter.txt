@@ -6,6 +6,7 @@
 ! Expires: 7 days (nearly update frequently)
 ! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
+! this ABPVN regex still works for somehow
 !-- #include https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
 !#include filter1-clickadu.txt
 !#include filter2_ez4short.txt
