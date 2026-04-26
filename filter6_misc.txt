@@ -1,0 +1,25 @@
+[uBlock Origin]
+! Title: BlackCatOfficial's Blocking Trash Ads (miscellaneous)
+! Description: Blocks miscellaneous things from my filter
+! Version: 1.7.3
+! Last modified: 2026-04-13
+! Expires: 7 days (nearly update frequently)
+! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
+
+! 8 thg 4, 2026 https://2fa.online
+||2fa.online/images/pro-ads-banner-updated.jpg$image
+
+! 9 thg 4, 2026 https://2fa.live
+||2fa.live/img/vn.png$image
+@@*$redirect-rule
+
+! 16 thg 4, 2026 https://work.ink
+work.ink##.max-\[600px\]\:p-0.max-h-\[640px\]\:overflow-auto.max-h-\[640px\]\:items-start.flex-col.p-8.bg-black\/60.backdrop-blur-2xl.justify-center.items-center.flex.h-full.w-full.left-0.top-0.z-\[998\].fixed
+
+! 18 thg 4, 2026 https://zufile.com
+zufile.com##.space-y-1.text-center > div
+
+! 26 thg 4, 2026 https://2fa.online
+2fa.online##.space-y-3 > .gap-3.justify-center.items-center.flex
+
+||shopee.vn/opaanlp^$all
