@@ -12,3 +12,4 @@
 !#include filter3_scriptlet_antiadblockdetection.txt
 !#include filter4_malware.txt
 !-- #include filter5_d3ward.txt
+!#include filter6_misc.txt
