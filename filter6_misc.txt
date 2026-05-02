@@ -20,4 +20,5 @@ zufile.com##.space-y-1.text-center > div
 ! block shopee affiliate link
 ||shopee.vn/opaanlp^$all
 ! block nte's AppsFlyer link
+||nte.onelink.me^$all
 ||nte.perfectworld.com^$all
