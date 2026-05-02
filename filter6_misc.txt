@@ -22,3 +22,6 @@ zufile.com##.space-y-1.text-center > div
 ! block nte's AppsFlyer link
 ||nte.onelink.me^$all
 ||nte.perfectworld.com^$all
+! block misc
+||gamerhit.co^
+||l.gamerdenz.com^
