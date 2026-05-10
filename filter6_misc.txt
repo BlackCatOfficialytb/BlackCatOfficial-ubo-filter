@@ -19,6 +19,8 @@ zufile.com##.space-y-1.text-center > div
 2fa.online##.space-y-3 > .gap-3.justify-center.items-center.flex
 ! block shopee affiliate link
 ||shopee.vn/opaanlp^$all
+! block arknight endfield affiliate/redirect link
+||akendfield.gryphline.com^
 ! block nte's AppsFlyer link
 ||nte.onelink.me^$all
 ||nte.perfectworld.com^$all
