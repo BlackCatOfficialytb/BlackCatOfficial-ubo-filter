@@ -14,7 +14,7 @@
 ! 16 thg 4, 2026 https://work.ink
 work.ink##.max-\[600px\]\:p-0.max-h-\[640px\]\:overflow-auto.max-h-\[640px\]\:items-start.flex-col.p-8.bg-black\/60.backdrop-blur-2xl.justify-center.items-center.flex.h-full.w-full.left-0.top-0.z-\[998\].fixed
 ! 18 thg 4, 2026 https://zufile.com
-zufile.com##.space-y-1.text-center > div
+! zufile.com##.space-y-1.text-center > div
 ! 26 thg 4, 2026 https://2fa.online
 2fa.online##.space-y-3 > .gap-3.justify-center.items-center.flex
 ! block shopee affiliate link
