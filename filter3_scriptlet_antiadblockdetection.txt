@@ -15,3 +15,4 @@ pro.tapvietcode.com##+js(set-constant, detectionResults.baitTest, false)
 www.turbolite.asia###HTML205 > .fNtf
 ||hanaminikata.com/static/js/anti_adsblock.js^
 +js(set, result.adBlock, false)
+hanaminikata.com###modal-backdrop-adblock-modal
