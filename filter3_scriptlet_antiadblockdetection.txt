@@ -13,4 +13,5 @@ pro.tapvietcode.com##+js(set-constant, adsbygoogle.loaded, true)
 pro.tapvietcode.com##+js(set-constant, detectionResults.baitTest, false)
 ||pro.tapvietcode.com/wp-content/plugins/link4sub-bypass/assets/js/adblock-detector.js^$script
 www.turbolite.asia###HTML205 > .fNtf
-||https://hanaminikata.com/static/js/anti_adsblock.js^
+||hanaminikata.com/static/js/anti_adsblock.js^
++js(set, result.adBlock, false)
