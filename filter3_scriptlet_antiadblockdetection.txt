@@ -1,9 +1,9 @@
 [uBlock Origin]
-! Title: BlackCatOfficial's Blocking Trash Ads (Antiadblokc)
-! Description: Blocks anti adblocks.
+! Title: BlackCatOfficial's Blocking Trash Ads (Anti-AdBlock)
+! Description: Blocks Anti Adblocks.
 ! Version: 1.0.0
 ! Last modified: 2026-04-13
-! Expires: 1 days
+! Expires: 1 day
 ! Homepage: https://github.com//BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 free.freezehost.pro##+js(set-constant, adblockerDetected, false)
 free.freezehost.pro##+js(get-constant, offsetHeight, 1)
@@ -13,3 +13,4 @@ pro.tapvietcode.com##+js(set-constant, adsbygoogle.loaded, true)
 pro.tapvietcode.com##+js(set-constant, detectionResults.baitTest, false)
 ||pro.tapvietcode.com/wp-content/plugins/link4sub-bypass/assets/js/adblock-detector.js^$script
 www.turbolite.asia###HTML205 > .fNtf
+||https://hanaminikata.com/static/js/anti_adsblock.js^
