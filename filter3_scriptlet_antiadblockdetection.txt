@@ -14,5 +14,30 @@ pro.tapvietcode.com##+js(set-constant, detectionResults.baitTest, false)
 ||pro.tapvietcode.com/wp-content/plugins/link4sub-bypass/assets/js/adblock-detector.js^$script
 www.turbolite.asia###HTML205 > .fNtf
 ||hanaminikata.com/static/js/anti_adsblock.js^
-+js(set, result.adBlock, false)
-hanaminikata.com###modal-backdrop-adblock-modal
+! hanaminikata.com###modal-backdrop-adblock-modal
+eternalzero.cloud##+js(set, document.getElementById, window.__getEI)
+eternalzero.cloud##div#panel-guard-layer
+eternalzero.cloud##:xpath(//div[@id="panel-guard-layer"])
+eternalzero.cloud##+js(set, document.body.style.overflow, )
+eternalzero.cloud##+js(set, Object.getOwnPropertyDescriptor(HTMLElement.prototype, 'offsetHeight').get, function(){ return 20 })
+eternalzero.cloud##+js(set, Object.getOwnPropertyDescriptor(HTMLElement.prototype, 'offsetWidth').get, function(){ return 20 })
+eternalzero.cloud##+js(prune, fetch, ad-banner.css)
+eternalzero.cloud##+js(prune, fetch, /ad-banner\.css/)
+eternalzero.cloud##+js(nostif, fetch)
+eternalzero.cloud##+js(set, window._adsLoaded, true)
+||eternalzero.cloud/js/ads.js$script,redirect=noop.js
+||eternalzero.cloud/css/ad-banner.css$stylesheet,redirect=noop.css
+eternalzero.cloud##+js(set, document.body.getAttribute, function(){ return null })
+eternalzero.cloud##.ez-ad
+eternalzero.cloud##.ez-ad-sidebar-column
+eternalzero.cloud##.ez-ad-mobile-top
+eternalzero.cloud##.ez-ad-leaderboard
+eternalzero.cloud##[id*="google_ads_iframe"]
+eternalzero.cloud##ins.adsbygoogle
+||googletagmanager.com/gtag/js$script,domain=eternalzero.cloud
+||hotjar.com^$script,domain=eternalzero.cloud
+eternalzero.cloud##+js(no-xhr-if, ads.js)
+eternalzero.cloud##+js(set, MutationObserver, class{})
+eternalzero.cloud##+js(set, customElements.define, function(){})
+eternalzero.cloud##+js(aeld, , /overflow/)
+eternalzero.cloud##body[style*="overflow: hidden"] :style(overflow: auto !important)
