@@ -2,7 +2,7 @@
 ! Title: BlackCatOfficial's Blocking Trash Ads (Anti-AdBlock)
 ! Description: Blocks Anti Adblocks.
 ! Version: 1.0.0
-! Last modified: 2026-04-13
+! Last modified: 2026-04-18
 ! Expires: 1 day
 ! Homepage: https://github.com//BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 free.freezehost.pro##+js(set-constant, adblockerDetected, false)
