@@ -50,3 +50,6 @@ eternalzero.cloud##body[style*="overflow: hidden"] :style(overflow: auto !import
 discordquestauto.space-z.ai##+js(set, HTMLElement.prototype.offsetHeight, 20)
 discordquestauto.space-z.ai##+js(set, HTMLElement.prototype.clientHeight, 20)
 discordquestauto.space-z.ai##div#adblock-wall
+new.pandadevelopment.net##+js(aeld, DOMContentLoaded, , true)
+new.pandadevelopment.net##div#adblock-overlay
+new.pandadevelopment.net##+js(nostif, 500)
