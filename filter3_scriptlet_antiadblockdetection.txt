@@ -53,3 +53,7 @@ discordquestauto.space-z.ai##div#adblock-wall
 new.pandadevelopment.net##+js(aeld, DOMContentLoaded, , true)
 new.pandadevelopment.net##div#adblock-overlay
 new.pandadevelopment.net##+js(nostif, 500)
+! WARNING: Luarmor is very strong, the js filter can blacklist you when ignore disabling HTML and proceed anyways, through no one getting this before
+! I'd recommend blocking the anti-adblock js or spoofing it then blocking the HTML, this will lower the risk
+! Jun 17, 2026 https://ads.luarmor.net
+ads.luarmor.net##.swal2-backdrop-show.swal2-center.swal2-container
