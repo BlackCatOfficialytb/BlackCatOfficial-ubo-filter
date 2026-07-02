@@ -8,7 +8,7 @@
 
 ! this ABPVN regex still works for somehow
 !-- #include https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt
-!#include filter1-clickadu.txt
+!#include filter1+clickadu.txt
 !#include filter2_ez4short.txt
 !#include filter3_scriptlet_antiadblockdetection.txt
 !#include filter4_malware.txt
