@@ -1,0 +1,9 @@
+[uBlock Origin]
+! Title: BlackCatOfficial's Blocking Trash Ads (Made in VN for global websites)
+! Description: Blocks all banners missed by standard lists.
+! Version: 1.7.3
+! Last modified: 2026-06-23
+! Expires: 7 days (nearly update frequently)
+! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
+
+||static.accesstrade.vn/js/v2/floating-ads-icon.min.js
