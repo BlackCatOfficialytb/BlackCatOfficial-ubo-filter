@@ -6,4 +6,6 @@
 ! Expires: 7 days (nearly update frequently)
 ! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
-||static.accesstrade.vn/js/v2/floating-ads-icon.min.js
+||static.accesstrade.vn/js/v2/floating-ads-icon.min.js^
+||content.accesstrade.vn^
+||go.isclix.com^
