@@ -17,6 +17,11 @@ work.ink##.max-\[600px\]\:p-0.max-h-\[640px\]\:overflow-auto.max-h-\[640px\]\:it
 ! zufile.com##.space-y-1.text-center > div
 ! 26 thg 4, 2026 https://2fa.online
 2fa.online##.space-y-3 > .gap-3.justify-center.items-center.flex
+! block hanaminikata affiliate
+||arkgleamfox.com^
+||arkgleamfox.com/qwiuanag4?key=471cc1db1cece1c7b91af2ed60416ac3^
+/^https?:\/\/[^\/]+\/qwiuanag4\?key=/
+||arkgleamfox.com/api/users?token=
 ! block shopee affiliate link
 ||shopee.vn/opaanlp^$all
 ! block arknight endfield affiliate/redirect link
