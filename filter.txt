@@ -4,6 +4,7 @@
 ! Version: 1.7.3
 ! Last modified: 2026-06-23
 ! Expires: 7 days (nearly update frequently)
+! License: Apache 2.0 (permissive)
 ! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
 ! this ABPVN regex still works for somehow
