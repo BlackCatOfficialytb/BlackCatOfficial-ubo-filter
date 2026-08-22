@@ -1,0 +1,13 @@
+[uBlock Origin]
+! Title: BlackCatOfficial's Blocking Trash Ads (For Site2S)
+! Description: Specialized ad-blocking filter made by a Vietnamese guy that blocks all self-ads by Site2S.
+! Version: 1.7.3
+! Last modified: 2026-06-23
+! Expires: 7 days (nearly update frequently)
+! License: Apache 2.0 (permissive)
+! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
+
+site2s.com###traffic-img
+site2s.com##a[target][rel][href]
+site2s.com##div.text-left
+site2s.com##hr
