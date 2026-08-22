@@ -6,8 +6,3 @@
 ! Expires: 7 days (nearly update frequently)
 ! License: Apache 2.0 (permissive)
 ! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
-
-site2s.com###traffic-img
-site2s.com##a[target][rel][href]
-site2s.com##div.text-left
-site2s.com##hr
