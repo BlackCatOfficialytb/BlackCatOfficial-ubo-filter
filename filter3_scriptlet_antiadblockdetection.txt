@@ -15,6 +15,7 @@ pro.tapvietcode.com##+js(set-constant, detectionResults.baitTest, false)
 www.turbolite.asia###HTML205 > .fNtf
 ||hanaminikata.com/static/js/anti_adsblock.js^
 hanaminikata.com###modal-backdrop-adblock-modal
+hanaminikata.com###modal-backdrop-cg-modal
 eternalzero.cloud##+js(set, document.getElementById, window.__getEI)
 eternalzero.cloud##div#panel-guard-layer
 eternalzero.cloud##:xpath(//div[@id="panel-guard-layer"])
