@@ -7,4 +7,5 @@
 ! License: Apache 2.0 (permissive)
 ! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
 
-! include None (null), of course
+!#include filter.txt
+!#include filter5_d3ward.txt
