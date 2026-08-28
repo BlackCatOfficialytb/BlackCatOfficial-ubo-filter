@@ -1,0 +1,13 @@
+[uBlock Origin]
+! Title: BlackCatOfficial's Blocking Trash Ads (For VN Adlinks)
+! Description: Specialized ad-blocking filter made by a Vietnamese guy that blocks all ads missed by standard lists.
+! Version: 1.7.3
+! Last modified: 2026-06-23
+! Expires: 7 days (nearly update frequently)
+! License: Apache 2.0 (permissive)
+! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
+
+! site2s (FireT.io Direct link)
+firet.io###mobile-popup-ad
+firet.io###sp-wrapper-hovering
+firet.io##div.popup-overlay
