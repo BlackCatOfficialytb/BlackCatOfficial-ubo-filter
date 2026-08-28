@@ -3,7 +3,7 @@
 **Specialized ad-blocking made by a Vietnamese guy.**
 
 > [!IMPORTANT]  
-> **This list is designed EXCLUSIVELY for [uBlock Origin](https://ublockorigin.com/).**
+> **This list is designed EXCLUSIVELY for [uBlock Origin](https://ublockorigin.com/) and uBlock Origin Lite (partially works).**
 > It uses advanced `!#include` directives and syntax that are not supported by Adblock Plus (ABP) or AdGuard.
 > You **MUST DISABLE ADBLOCK/ADBLOCK PLUS/ADGUARD BEFORE INSTALLING** this filter
 
