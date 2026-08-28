@@ -1,0 +1,10 @@
+[uBlock Origin]
+! Title: BlackCatOfficial's Blocking Trash Ads (Extreme Mode)
+! Description: Specialized ad-blocking filter that blocks lots of elements and network files from the website. Be careful of using it since it can break websites
+! Version: 1.7.3
+! Last modified: 2026-06-23
+! Expires: 7 days (nearly update frequently)
+! License: Apache 2.0 (permissive)
+! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
+
+! include None (null), of course
