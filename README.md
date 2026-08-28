@@ -3,9 +3,9 @@
 **Specialized ad-blocking made by a Vietnamese guy.**
 
 > [!IMPORTANT]  
-> **This list is designed EXCLUSIVELY for [uBlock Origin](https://ublockorigin.com/) and uBlock Origin Lite (partially works).**
-> It uses advanced `!#include` directives and syntax that are not supported by Adblock Plus (ABP) or AdGuard.
-> You **MUST DISABLE ADBLOCK/ADBLOCK PLUS/ADGUARD BEFORE INSTALLING** this filter (unless you use importing urls method below)
+> **This list is designed EXCLUSIVELY for [uBlock Origin](https://github.com/gorhill/uBlock) and [uBlock Origin Lite](https://github.com/uBlockOrigin/uBOL-home) (partially works).**
+> It uses advanced `!#include` directives and syntax (include elements filter syntax) that are not supported by Adblock Plus (ABP) or AdGuard.
+> You **MUST DISABLE ADBLOCK/ADBLOCK PLUS/ADGUARD BEFORE INSTALLING** this filter (unless you use the importing URLs method below)
 
 ---
 
