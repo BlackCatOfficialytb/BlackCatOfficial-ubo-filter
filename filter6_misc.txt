@@ -37,4 +37,4 @@ work.ink##.max-\[600px\]\:p-0.max-h-\[640px\]\:overflow-auto.max-h-\[640px\]\:it
 ! block misc
 ||gamerhit.co^
 ||l.gamerdenz.com^
-||sowve.com/4^
+||sowve.com^
