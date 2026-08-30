@@ -13,6 +13,8 @@
 ||yahoodns.net^$xhr,3p
 ||oath.cloud^$xhr,3p
 ||gemini.yahoo.com^$xhr,3p
+||udcm.yahoo.com^$xhr,3p
+||log.fc.yahoo.com^$xhr,3p
 
 ! Block OEM Telemetry (Apple, Xiaomi, Realme, Samsung)
 ||aaplimg.com^$xhr,3p
