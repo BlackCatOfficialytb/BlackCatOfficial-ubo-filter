@@ -82,6 +82,5 @@ Apache 2.0 — free to use, modify, and distribute.
 
 ## 🙏 Credits
 
-- [ABPVN](https://github.com/abpvn/abpvn) — Vietnamese filter base
 - [uBlock Origin](https://github.com/gorhill/uBlock) — The best ad blocker
 - Community reporters
