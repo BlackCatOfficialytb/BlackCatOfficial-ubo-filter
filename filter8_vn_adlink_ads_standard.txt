@@ -10,6 +10,7 @@
 ! site2s (main)
 !// site2s.com##a[target][rel][href]
 site2s.com###sp-wrapper-hovering-format > #sp-wrapper-hovering
+site2s.com###traffic-img
 
 ! site2s (FireT.io Direct link)
 firet.io###mobile-popup-ad
