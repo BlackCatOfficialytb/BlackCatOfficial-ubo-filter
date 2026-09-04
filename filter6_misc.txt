@@ -39,3 +39,6 @@ work.ink##.max-\[600px\]\:p-0.max-h-\[640px\]\:overflow-auto.max-h-\[640px\]\:it
 ||l.gamerdenz.com^
 ||sowve.com^
 adblock.turtlecute.org##div.hero_extra
+! block luatools's ads
+lua.tools##[href^="https://csgofast.com"]
+lua.tools##[href^="https://www.gamivo.com"]
