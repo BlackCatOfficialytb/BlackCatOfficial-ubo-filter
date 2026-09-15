@@ -42,3 +42,5 @@ adblock.turtlecute.org##div.hero_extra
 ! block luatools's ads
 lua.tools##[href^="https://csgofast.com"]
 lua.tools##[href^="https://www.gamivo.com"]
+! blocks KilgoreAI's adblock
+||kilgoreai.xyz/chat/adblock.js$script
