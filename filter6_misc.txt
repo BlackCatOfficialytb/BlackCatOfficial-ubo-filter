@@ -44,3 +44,6 @@ lua.tools##[href^="https://csgofast.com"]
 lua.tools##[href^="https://www.gamivo.com"]
 ! blocks KilgoreAI's adblock
 ||kilgoreai.xyz/chat/adblock.js$script
+! 20 thg 10, 2026 https://canuc80k.pages.dev
+canuc80k.pages.dev##.rank-rail--start.rank-rail > .rank-card--open.rank-card
+canuc80k.pages.dev##.rank-card--compact.rank-card--open.rank-card
