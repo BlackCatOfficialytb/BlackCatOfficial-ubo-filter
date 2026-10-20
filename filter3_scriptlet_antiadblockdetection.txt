@@ -58,3 +58,4 @@ new.pandadevelopment.net##+js(nostif, 500)
 ! I'd recommend blocking the anti-adblock js or spoofing it then blocking the HTML, this will lower the risk
 ! Jun 17, 2026 https://ads.luarmor.net
 ads.luarmor.net##.swal2-backdrop-show.swal2-center.swal2-container
+site2s.com##.overlay-adblock
