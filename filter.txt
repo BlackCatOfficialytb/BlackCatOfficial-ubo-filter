@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: BlackCatOfficial's Blocking Trash Ads (Made in VN for global websites)
 ! Description: Specialized ad-blocking filter made by a Vietnamese guy that blocks all ads missed by standard lists.
-! Version: 1.7.3
+! Version: 1.7.4
 ! Last modified: 2026-06-23
 ! Expires: 7 days (nearly update frequently)
 ! License: Apache 2.0 (permissive)
