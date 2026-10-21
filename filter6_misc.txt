@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: BlackCatOfficial's Blocking Trash Ads (miscellaneous)
 ! Description: Blocks miscellaneous things from my filter
-! Version: 1.7.3
+! Version: 1.7.4
 ! Last modified: 2026-04-13
 ! Expires: 7 days (nearly update frequently)
 ! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
@@ -51,3 +51,4 @@ canuc80k.com##.rank-rail--end.rank-rail
 ai.canuc80k.com##.rank-rail--wiki.rank-rail
 ! 21 thg 10, 2026 https://cp.canuc80k.com
 cp.canuc80k.com##.rank-rail--wiki.rank-rail
+canuc80k.com##.rank-list
