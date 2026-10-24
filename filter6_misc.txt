@@ -59,3 +59,6 @@ cp.canuc80k.com##.rank-thanks
 ai.canuc80k.com##.rank-side
 ai.canuc80k.com##.is-set.themed.rank-card--panel.rank-card
 ai.canuc80k.com##.rank-thanks
+cpp.canuc80k.com##.rank-side
+cpp.canuc80k.com##.is-set.themed.rank-card--panel.rank-card
+cpp.canuc80k.com##.rank-thanks
