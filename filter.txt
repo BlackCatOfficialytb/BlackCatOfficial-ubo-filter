@@ -16,3 +16,4 @@
 !#include filter6_misc.txt
 !#include filter7_banner.txt
 !#include filter8_vn_adlink_ads_standard.txt
+!#include filter10_canuc80k.txt
