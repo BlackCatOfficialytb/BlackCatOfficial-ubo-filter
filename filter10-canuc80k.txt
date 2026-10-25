@@ -1,0 +1,30 @@
+[uBlock Origin]
+! Title: BlackCatOfficial's Blocking Trash Ads (canuc80k.com)
+! Description: Blocks ads from *.canuc80k.com
+! Version: 1.7.6
+! Last modified: 2026-10-25
+! Expires: 7 days (nearly update frequently)
+! Homepage: https://github.com/BlackCatOfficialytb/BlackCatOfficial-ubo-filter
+
+! 25 thg 10, 2026 https://canuc80k.com
+canuc80k.com##.rank-list
+
+! 25 thg 10, 2026 https://cpp.canuc80k.com
+cpp.canuc80k.com##.rank-rail--wiki.rank-rail
+cpp.canuc80k.com##.rank-side
+cpp.canuc80k.com##.is-set.themed.rank-card--panel.rank-card
+cpp.canuc80k.com##.rank-thanks
+
+! 25 thg 10, 2026 https://cp.canuc80k.com
+cp.canuc80k.com##.rank-side
+cp.canuc80k.com##.is-set.themed.rank-card--panel.rank-card
+cp.canuc80k.com##.rank-thanks
+
+! 25 thg 10, 2026 https://ai.canuc80k.com
+ai.canuc80k.com##.rank-side
+ai.canuc80k.com##.is-set.themed.rank-card--panel.rank-card
+ai.canuc80k.com##.rank-thanks
+
+! 25 thg 10, 2026 https://canuc80k.com
+canuc80k.com##section.course:nth-of-type(3)
+
