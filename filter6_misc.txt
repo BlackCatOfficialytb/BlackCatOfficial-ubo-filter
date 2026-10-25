@@ -44,21 +44,3 @@ lua.tools##[href^="https://csgofast.com"]
 lua.tools##[href^="https://www.gamivo.com"]
 ! blocks KilgoreAI's adblock
 ||kilgoreai.xyz/chat/adblock.js$script
-! 21 thg 10, 2026 https://canuc80k.com
-canuc80k.com##.rank-rail--start.rank-rail
-canuc80k.com##.rank-rail--end.rank-rail
-! 21 thg 10, 2026 https://ai.canuc80k.com
-ai.canuc80k.com##.rank-rail--wiki.rank-rail
-! 21 thg 10, 2026 https://cp.canuc80k.com
-cp.canuc80k.com##.rank-rail--wiki.rank-rail
-canuc80k.com##.rank-list
-! Oct 22, 2026 https://cp.canuc80k.com
-cp.canuc80k.com##.rank-side
-cp.canuc80k.com##.is-set.themed.rank-card--panel.rank-card
-cp.canuc80k.com##.rank-thanks
-ai.canuc80k.com##.rank-side
-ai.canuc80k.com##.is-set.themed.rank-card--panel.rank-card
-ai.canuc80k.com##.rank-thanks
-cpp.canuc80k.com##.rank-side
-cpp.canuc80k.com##.is-set.themed.rank-card--panel.rank-card
-cpp.canuc80k.com##.rank-thanks
