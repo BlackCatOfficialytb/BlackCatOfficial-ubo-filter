@@ -59,3 +59,4 @@ new.pandadevelopment.net##+js(nostif, 500)
 ! Jun 17, 2026 https://ads.luarmor.net
 ads.luarmor.net##.swal2-backdrop-show.swal2-center.swal2-container
 site2s.com##.overlay-adblock
+work.ink##.max-\[600px\]\:p-0.overflow-auto.flex-col.p-8.bg-black\/60.backdrop-blur-2xl.justify-center.items-center.flex.h-full.w-full.left-0.top-0.z-\[998\].fixed
