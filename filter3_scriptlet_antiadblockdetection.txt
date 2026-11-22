@@ -60,3 +60,37 @@ new.pandadevelopment.net##+js(nostif, 500)
 ads.luarmor.net##.swal2-backdrop-show.swal2-center.swal2-container
 site2s.com##.overlay-adblock
 work.ink##.max-\[600px\]\:p-0.overflow-auto.flex-col.p-8.bg-black\/60.backdrop-blur-2xl.justify-center.items-center.flex.h-full.w-full.left-0.top-0.z-\[998\].fixed
+! ===== vnbypass.com — bypass anti-adblock =====
+! 1) Block the actual ad SCRIPTS (so no ads/pop-unders), but only script requests.
+||abscloud.org/1/61b47b8256f896ba3b7d410f1a68ae26^$script,domain=vnbypass.com
+||bauval.org/21/aefb59c07e480cdc07f2032c24ac1800^$script,domain=vnbypass.com
+||bauval.org/14/f99639f42ca872ff69d38e41cfb6e7ef^$script,domain=vnbypass.com
+
+! 2) Let the site's fetch() detection probes succeed, so the audit reports "ads are fine".
+@@||abscloud.org/1/61b47b8256f896ba3b7d410f1a68ae26^$xmlhttprequest,domain=vnbypass.com
+@@||bauval.org/21/aefb59c07e480cdc07f2032c24ac1800^$xmlhttprequest,domain=vnbypass.com
+@@||bauval.org/14/f99639f42ca872ff69d38e41cfb6e7ef^$xmlhttprequest,domain=vnbypass.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=vnbypass.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js^$domain=vnbypass.com
+@@||adservice.google.com/adsid/integrator.js^$domain=vnbypass.com
+
+! 3) Keep the bait elements visible so the DOM check never trips.
+vnbypass.com#@#.adsbox
+vnbypass.com#@#.ad-banner
+vnbypass.com#@#.ad-placement
+vnbypass.com#@#.sponsored-ad
+vnbypass.com#@#.pub_300x250
+vnbypass.com#@#.textads
+vnbypass.com#@#.ad-footer
+vnbypass.com#@#.ad_box
+vnbypass.com#@#.banner_ad
+vnbypass.com#@#.div-gpt-ad
+vnbypass.com#@#.ad-slot
+vnbypass.com#@#.advertisement
+vnbypass.com#@##vn-ad-bait-slot
+vnbypass.com#@##nativeAdSlot
+vnbypass.com#@##bannerAdSlot
+vnbypass.com#@##bannerAdSpace
+
+! 4) Modify __vnAdblockAudit to turn off the overlay.
+vnbypass.com##+js(set, __VN_NOADS__.active, true)
